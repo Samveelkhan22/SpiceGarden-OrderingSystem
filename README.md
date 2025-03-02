@@ -15,8 +15,9 @@ A simple **Python-based restaurant ordering system** that allows users to place 
 - Python 3.x
 - No external dependencies (Uses built-in libraries like csv)
 
-```
 ## 📖 Example Usage
+
+```
 Welcome to the Restaurant Ordering System!  
 1. Restaurant Information  
 2. Order Appetizers  
